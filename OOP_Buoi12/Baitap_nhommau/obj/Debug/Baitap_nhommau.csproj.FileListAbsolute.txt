@@ -1,0 +1,8 @@
+C:\Users\May1\source\repos\OOP_Buoi12\Baitap_nhommau\bin\Debug\Baitap_nhommau.exe.config
+C:\Users\May1\source\repos\OOP_Buoi12\Baitap_nhommau\bin\Debug\Baitap_nhommau.exe
+C:\Users\May1\source\repos\OOP_Buoi12\Baitap_nhommau\bin\Debug\Baitap_nhommau.pdb
+C:\Users\May1\source\repos\OOP_Buoi12\Baitap_nhommau\obj\Debug\Baitap_nhommau.csproj.AssemblyReference.cache
+C:\Users\May1\source\repos\OOP_Buoi12\Baitap_nhommau\obj\Debug\Baitap_nhommau.csproj.SuggestedBindingRedirects.cache
+C:\Users\May1\source\repos\OOP_Buoi12\Baitap_nhommau\obj\Debug\Baitap_nhommau.csproj.CoreCompileInputs.cache
+C:\Users\May1\source\repos\OOP_Buoi12\Baitap_nhommau\obj\Debug\Baitap_nhommau.exe
+C:\Users\May1\source\repos\OOP_Buoi12\Baitap_nhommau\obj\Debug\Baitap_nhommau.pdb
